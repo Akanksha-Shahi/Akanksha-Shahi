@@ -10,7 +10,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 💫 About Me
+# About Me
 
 🎓 B.Tech CSE Student at **VIT Bhopal University**  
 🤖 Passionate about building **AI-powered applications** solving real-world problems  
@@ -22,41 +22,41 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
 </p>
 
-### 🤖 AI / ML / Data
+### AI / ML / Data
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 ## 🔹 TenderAI
 > AI-powered tender evaluation system that automates OCR extraction, bidder analysis, and intelligent document processing workflows.
@@ -93,7 +93,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akanksha-Shahi&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
@@ -103,7 +103,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Akanksha-Shahi&theme=tokyonight&hide_border=true"/>
@@ -111,7 +111,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 💻 LeetCode Stats & Streak
+# LeetCode Stats & Streak
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Akanksha_Shahi?theme=dark&font=Nunito&ext=contest" />
@@ -125,7 +125,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 🏆 GeeksforGeeks Stats
+# GeeksforGeeks Stats
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/akankshas9ggs?from=explore&tab=activity">
@@ -135,7 +135,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 🏅 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akanksha-Shahi&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
@@ -143,7 +143,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -163,7 +163,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-Shahi&theme=tokyo-night&hide_border=true"/>
@@ -171,7 +171,7 @@ AI & Full-Stack Developer | Building Intelligent Real-World Solutions | B.Tech C
 
 ---
 
-# ✨ Developer Philosophy
+# Developer Philosophy
 
 > *"Great products are built where curiosity, consistency, and creativity intersect."*
 
